@@ -1,6 +1,7 @@
 {
   // "editor.fontFamily": "Dank Mono",
-  "editor.fontFamily": "Harlow Solid",
+  // "editor.fontFamily": "Harlow Solid",
+  "editor.fontFamily": "Gabriola",
   // "editor.fontFamily": "Fragment Mono",
   // "editor.fontFamily": "Roboto",
   // "editor.fontWeight": "bold",
